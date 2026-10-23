@@ -1,0 +1,18 @@
+{
+  "id": "MonosCards",
+  "name": "Mono's Cards",
+  "display_name": "Mono's Cards",
+  "author": [
+    "Monochromish"
+  ],
+  "description": "Adds Zap, a Spectral card that fuses two Jokers into one, and the Static Deck.",
+  "prefix": "mono",
+  "main_file": "main.lua",
+  "priority": 0,
+  "badge_colour": "4584FA",
+  "badge_text_colour": "FFFFFF",
+  "version": "1.0.0",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-1620a)"
+  ]
+}
