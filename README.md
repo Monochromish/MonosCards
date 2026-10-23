@@ -1,6 +1,6 @@
 # Mono's Cards
 
-Adds Zap, a Spectral card that fuses two Jokers into one, and the Static Deck, which starts you off with a Zap.
+Currently only features a spectral card (Zap) and a deck (Static Deck).
 
 ![Zap and the Static Deck](docs/preview.png)
 
